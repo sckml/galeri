@@ -1,5 +1,7 @@
-<img width="1210" height="587" alt="image" src="https://github.com/user-attachments/assets/c1ec4cf6-4542-471d-9204-a1b5ced4b576" />**_DOCUMENTATION_**
+
+**_DOCUMENTATION_**
 fitur-fitur 
+
 A.LOGIN
 <img width="624" height="782" alt="image" src="https://github.com/user-attachments/assets/88c80b99-8630-43d1-9fd9-7962a737f89e" />
 
@@ -10,6 +12,7 @@ C.DASHBOARD
 <img width="1703" height="886" alt="image" src="https://github.com/user-attachments/assets/d6a30424-241a-47c7-be8c-9ba7aee7fbdb" />
 
 D.GALERY
+
 a. ADD YOUR Gallery
 <img width="779" height="762" alt="image" src="https://github.com/user-attachments/assets/9364ae44-a6cd-4862-8073-a60ef39beab2" />
 
@@ -24,6 +27,7 @@ d. VIEW
 <img width="1304" height="785" alt="image" src="https://github.com/user-attachments/assets/03589d24-8a2a-466e-9b82-a72f2e27f067" />
 
 E.ALBUM
+
 a.ADD ALBUM
 <img width="831" height="581" alt="image" src="https://github.com/user-attachments/assets/ca19aee6-5dc4-4556-88f6-ee28cd769702" />
 
